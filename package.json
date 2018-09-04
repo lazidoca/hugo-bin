@@ -1,10 +1,10 @@
 {
-  "name": "hugo-bin",
-  "version": "0.30.0",
-  "hugoVersion": "0.42.2",
-  "description": "Binary wrapper for Hugo",
-  "repository": "fenneclab/hugo-bin",
-  "author": "satoshun00 <shun.sato@fenneclab.com>",
+  "name": "hugo-bin-latest",
+  "version": "0.1.0",
+  "hugoVersion": "0.48",
+  "description": "Binary wrapper for latest sHugo",
+  "repository": "lazidoca/hugo-bin",
+  "author": "bao.tran <bao.tran.43435@gmail.com>",
   "license": "MIT",
   "main": "index.js",
   "bin": {
